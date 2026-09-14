@@ -1,19 +1,30 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "title": "Förbered presentation",
-      "completed": false
-    },
-    {
-      "id": "2",
-      "title": "Rätta inlämningar",
-      "completed": true
-    },
-    {
       "id": "3",
       "title": "Planera nästa lektion",
       "completed": false
+    },
+    {
+      "title": "Plugga",
+      "completed": false,
+      "id": "qgaejEQiHFU"
+    },
+    {
+      "title": "plugga",
+      "completed": false,
+      "id": "pFNASjVEN2g"
+    },
+    {
+      "title": "städa",
+      "completed": false,
+      "id": "8DZ1x47BwM8"
+    },
+    {
+      "title": "handla",
+      "completed": false,
+      "id": "Yl58QxVEq8U"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
