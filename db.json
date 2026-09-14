@@ -24,6 +24,11 @@
       "title": "handla",
       "completed": false,
       "id": "Yl58QxVEq8U"
+    },
+    {
+      "title": "plugga",
+      "completed": false,
+      "id": "bAQNjXVLtdM"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
