@@ -18,3 +18,4 @@ it("ska skapa en uppgift när användaren skriver en giltig titel", async () => 
 
     expect(mockOnAddTask).toHaveBeenCalledWith("Plugga");
 });
+

@@ -29,6 +29,11 @@
       "title": "plugga",
       "completed": false,
       "id": "bAQNjXVLtdM"
+    },
+    {
+      "title": "Städa",
+      "completed": false,
+      "id": "HkNQo8ARlEg"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
