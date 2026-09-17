@@ -1,6 +1,7 @@
 # React Todo-app
 
-En enkel Todo-app med React, Vite och JSON Server. Appen innehåller inga tester eller testverktyg.
+En enkel Todo-app med React, Vite och JSON Server. 
+Appen är byggd med React, Vite och JSON Server och innehåller automatiserade tester med Vitest, React Testing Library och MSW.
 
 ## Funktioner
 
@@ -80,3 +81,4 @@ Vid slutlig testkörning testas att alla obligatoriska tester är godkända (`pa
 
 Testsviten innehåller 12 enhetstester, 1 komponenttest och 1 integrationstest med MSW.
 
+Alla test är godkända.
