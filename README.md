@@ -53,3 +53,30 @@ VITE_BUTTON_VARIANT=A
 - `B` visar **Skapa uppgift**.
 
 Starta om React-appen efter att du har ändrat `.env`.
+
+## Tester
+
+Kör automatiska tester med:
+
+```bash
+npm test
+```
+
+Kör ESLint med:
+
+```bash
+npm run lint
+```
+
+## Testerna består av:
+
+* Enhetstester med Vitest
+* Komponenttest med React Testing Library
+* Integrationstest med MSW för väderfunktionen
+
+## Testresultat
+
+Vid slutlig testkörning testas att alla obligatoriska tester är godkända (`passed`).
+
+Testsviten innehåller 12 enhetstester, 1 komponenttest och 1 integrationstest med MSW.
+
