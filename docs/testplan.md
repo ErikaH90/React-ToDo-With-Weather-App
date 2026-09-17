@@ -18,4 +18,4 @@ Eftersom testerna bara testar ett begränsat antal saker så finns det mycker i 
 
 ## AI-användning
 
-Jag använde AI för att förstå hur olika tester fungerar med Vitest, React Testing Library och MSW, samt med formatering av md-filer.
+Jag använde AI för att förstå hur olika tester fungerar med Vitest, React Testing Library och MSW, samt med formatering av md-filer. Jag använde även AI för att felsöka konfigurationen och för att upptäcka brister i mina tester, exempelvis sådant som att gränsvärden för temperatur inte testas, vilket skulle kunna innebära en potentiell risk tillsammans med andra edge cases.

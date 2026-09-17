@@ -32,7 +32,7 @@ describe("getClothingAdvice", () => {
     it("om temperaturen är mellan 5 och 15 ska den ge rådet att ta på sig en jacka eller varm tröja", () => {
         expect(getClothingAdvice(10, 0)).toBe("Ta på dig en jacka eller varm tröja.");
     });
-    it("om temperaturen är mellan 15 och 20 ska den ge rådet att ta på sig en tunn jacka eller tröja", () => {
-        expect(getClothingAdvice(18, 0)).toBe("En tunn jacka eller tröja kan vara bra.");
+    it("ska ge råd om en tunn jacka eller tröja vid exakt 15 grader", () => {
+        expect(getClothingAdvice(15, 0)).toBe("En tunn jacka eller tröja kan vara bra.");
     });
 });

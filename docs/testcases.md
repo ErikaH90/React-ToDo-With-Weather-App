@@ -70,8 +70,7 @@ Kontrollera att en todo-titel tas bort från listan med uppgifter att göra, nä
 | ------ | ------------------------------------------------------------------------------ | ------------ | ------------ |
                                                            |
 | 1      | Klickar på knappen "Ta bort" invid todo-uppgiften                              | "Köpa mjölk" | Todo-uppgiften tas bort och blir inte längre synlig i listan |
-| 3      |                                                                                |              |                                                              |
-| 4      |                                                                                |              |                                                              |
+|                                                              |
 
 ## **4. Testresultat**
 
