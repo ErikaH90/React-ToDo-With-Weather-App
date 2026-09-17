@@ -81,4 +81,7 @@ Vid slutlig testkörning testas att alla obligatoriska tester är godkända (`pa
 
 Testsviten innehåller enhetstester, ett komponenttest och ett integrationstest med MSW.
 
-Alla test är godkända.
+## Sammanfattning
+
+Alla test är godkända. 
+4 filer passed, 13 test passed.

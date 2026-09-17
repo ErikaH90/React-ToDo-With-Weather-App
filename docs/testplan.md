@@ -12,7 +12,7 @@ På integrationsnivå testas funktionen som hämtar väder-API:et. Med hjälp av
 
 ## Val av tester 
 
-Jag valde testerna för att de kontrollerar olika typer av problem; enhetstesterna för att de undersöker om isolerade funktioner gör vad de ska, integrationstestet för att undersöka interaktionen från ett användarperspektiv och MSW-testet för att undersöka om data från API:et hämtas så som förväntat. Jag har även valt gränsvärden och negativa scenarier eftersom fel ofta kan uppstå när indata ligger nära en gräns eller inte är giltig. 
+Jag valde testerna för att de kontrollerar olika typer av problem; enhetstesterna för att de undersöker om isolerade funktioner gör vad de ska, komponenttestet för att undersöka interaktionen från ett användarperspektiv och MSW-testet för att undersöka om data från API:et hämtas så som förväntat. Jag har även valt gränsvärden och negativa scenarier eftersom fel ofta kan uppstå när indata ligger nära en gräns eller inte är giltig. 
 
 ## Risker 
 
@@ -20,4 +20,4 @@ Eftersom testerna bara testar ett begränsat antal saker så finns det mycket i 
 
 ## AI-användning
 
-Jag använde AI för att förstå hur olika tester fungerar med Vitest, React Testing Library och MSW, samt med formatering av md-filer. Jag använde även AI för att felsöka konfigurationen och för att upptäcka möjliga brister i mina tester som skulle kunna innebära potentiella risker. AI förslag användes som stöd, men jag granskade och skrev själv koden och körde testerna för att kontrollera att lösningarna fungerade.
+Jag använde AI för att förstå hur olika tester fungerar med Vitest, React Testing Library och MSW, samt med formatering av md-filer. Jag använde även AI för att felsöka konfigurationen och för att upptäcka möjliga brister i mina tester som skulle kunna innebära potentiella risker. AI-förslag användes som stöd, men jag granskade och skrev själv koden och körde testerna för att kontrollera att lösningarna fungerade.
