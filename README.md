@@ -79,6 +79,6 @@ npm run lint
 
 Vid slutlig testkörning testas att alla obligatoriska tester är godkända (`passed`).
 
-Testsviten innehåller 12 enhetstester, 1 komponenttest och 1 integrationstest med MSW.
+Testsviten innehåller enhetstester, ett komponenttest och ett integrationstest med MSW.
 
 Alla test är godkända.

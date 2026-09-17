@@ -1,4 +1,4 @@
-const WEATHER_URL =
+export const WEATHER_URL =
   "https://api.open-meteo.com/v1/forecast?latitude=59.3293&longitude=18.0686&current=temperature_2m,weather_code&timezone=Europe%2FStockholm";
 
 export const getStockholmWeather = async () => {
